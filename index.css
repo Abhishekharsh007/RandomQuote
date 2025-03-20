@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    background-color: red;
+    margin-left: 95%;
+}
+
+#capyi {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 5% 10%;
+    padding: 5% 10%;
+}
+
+.btn {
+    background-color: rgb(31, 31, 181);
+    font-size: large;
+    padding: 1% 3%;
+    border: 2px solid green;
+    border-radius: 20px;
+}
